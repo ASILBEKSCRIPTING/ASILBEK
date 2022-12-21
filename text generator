@@ -1,36 +1,66 @@
 return {
-    ["hi"] = "ḩ̸̝̭̗̞̠̼̰̰̺̓́̆̀̋̑̃͘i̸̧̢̟͚͉̞͈̪͖̊͂̈̇͊̆͌̇͝ͅ",
-    ["fucking"] = "fu{{AIeIXzVZx:ck}}in{{AIeIXzVZx:g}}",
-    ["motherfucking"] = "motherf{{zczxczvzaiei:uc}}kin{{AIeIXzVZx:g}}",
-    -- NORMALS
-    ["ass"] = "as{{AIeIXzVZx:s}}",
-    ["beaner"] = "beane{{AIeIXzVZx:r}}", -- Unstable
-    ["bitch"] = "bit{{AIeIXzVZx:ch}}",
-    ["blowjob"] = "blow{{AIeIXzVZx:job}}",
-    ["boob"] = "boo{{AIeIXzVZx:b}}",
-    ["boner"] = "bon{{AIeIXzVZx:er}}", -- Unstable
-    ["cock"] = "co{{AIeIXzVZx:ck}}",
-    ["cunt"] = "cu{{AIeIXzVZx:nt}}",
-    ["cum"] = "cu{{AIeIXzVZx:m}}",
-    ["dick"] = "di{{zczxczvz:ck}}",
+    ["hi"] = "ḫ̷̞̮͓̰̮̗͑̽͋̽͆̓į̸̥͎̯̦͂͛͛̏̓̇̐̔̾",
+    
+    ["hello"] = "ḧ̸͖̼͍͓͈́e̵̛͔̪͕̳͍̭͕̩̟͋̓̋̆̈́̌͝ͅḻ̴̛̘̭̹͔́͋͌̚͘͝ļ̶̧̝̠̭̞̗̱́̐̈́ͅo̴̘̒̓̒̈́̒̊̓̀̀͝",
+    
+    ["no"] = "n̴͓͚̰͍̬̥͙͈͎̹̿̏͝ö̸̧̦̬͇̟̹͚̩̳́͌̚͠͝",
+    
+    ["yes"] = "ŷ̸̛͍̖̾̑͌͋̍̍̊ḕ̵̩͕͓̥̻̟͕̳̫̽͝s̴̞͖̠͕̫̞̈͛̋̈́",
+    
+    ["hacker"] = "h̸̼̭͕̳̼̝͚͎̗̃̇̀̈́̈̑̽̿͘͝ͅa̵̦̠̰͊̑͗͛̒̓̈́̈́̕̕c̶̢͔̭͑̒̍͛͝k̵̡̛͇͕̯̫̆̅̊ẹ̵̢̭̰̍̈̐̅̒̈́̽͠ŗ̴̺̩̣̱̎̽͂͑͂̐̓͊͑̀",
+    
+    ["guys"] = "g̶̛̒͆̊̂ͅủ̸̡̧̹͚̲̩̲̺̈͑̒͋͒͘ͅỳ̵̨͈͇͖̬͈̈́̅̊̔͊̓͒͜͠ͅs̶̫̞̠̦͇̯̤̗͠ͅ",
+    
+    ["nah"] = "ń̸̳̈́a̵͕̝͍͇͍͊̒̔͝ͅͅh̸̢̥̟̩͍͉̺͉̔̋̿͘",
+    
+    ["who"] = "ŵ̸̡͕͇͔̖̳̟͛̒̀̉́̒̃̑͘ḧ̶̤̩̲͉̥́̐̍̈̉o̴̬̝̞̝̬̝̻͉͇̔̄̇",
+    
+    ["not"] = "ń̴̤̘͍̌͗͛̉̔͌ó̴̞̪̺̼̔̎͑t̴͔͛̌͗̚",
+    
+    ["skid"] = "ś̶͕̞̜̯͛͠ͅk̷͕͓͔̩̈́͒̓̊i̶̧̺̮̮̻̜̱͛̈́̋̂̀̂d̸̙̼̦̠̆̐̏͑̊̌̃͋̕",
+    
+    ["mom"] = "m̷̙̲̟̝̩͔̘̀̐̓̊̓ǫ̴̖͉̮͌̑͌̑̚m̵̪̪̓̔̂̚",
+    
+    ["dad"] = "d̸͉̮̠̞͙̬̳̂̒̈̅͘͠a̷̘̣͖̯̤̋̓̿d̴͚̖̼̞̜̮͇̹̳̔͆́͜",
+    
+    ["text"] = "t̵̤͔̭͈̩͕̲̥͈̓̀͛͆̍͌̈́͛̈ẽ̵̼͖͙͍̲̺̰͉x̸̞̫̦̘̠̥̣͖̖͑͌͜ṯ̷̠̻̰̞̓̽̐͗̈͘",
+    
     ["dildo"] = "di{{AIeIXzVZx:ldo}}",
-    ["dumb"] = "du{{AIeIXzVZx:mb}}", -- Unstable
-    ["dumbass"] = "dumba{{AIeIXzVZx:ss}}", -- Unstable
-    ["dyke"] = "dy{{AIeIXzVZx:ke}}",
-    ["fag"] = "fa{{AIeIXzVZx:g}}",
-    ["fuck"] = "fu{{AIeIXzVZx:ck}}",
-    ["gaylord"] = "gayl{{AIeIXzVZx:ord}}",
-    ["hoe"] = "h{{zczxczvz:oe}}",
-    ["jew"] = "je{{zczxczvz:w}}",
-    ["jizz"] = "ji{{AIeIXzVZx:zz}}",
-    ["kike"] = "ki{{AIeIXzVZx:ke}}",
-    ["kkk"] = "k{{AIeIXzVZx:kk}}",
-    ["kyke"] = "ky{{AIeIXzVZx:ke}}",
-    ["masturbat"] = "mastur{{AIeIXzVZx:bat}}",
-    ["motherfucker"] = "motherf{{zczxczvzaiei:ucker}}",
-    ["nazi"] = "na{{AIeIXzVZx:zi}}",
+    
+    ["thx"] = "t̶̡̼̻̀̑͒̀͗̋͋̾̌̚h̷͍̣̖̺͎͔͕́̅̄̀͐́̈̎x̵̭̞̊̋͘",
+    
+    ["thanks"] = "ṫ̸̤̫̳̱̼̲͙͎̣h̴̟̱͇̩͌͠á̵̡̠͉͈͓̱̘̜̻̠͌̇͒͋̋̀̕n̸͕͍̩̗̔̀k̶̗͓̦̹̿̑͊s̵̡̻̦̮͛̉̇͋̚ͅ",
+    
+    ["you"] = "y̸̝̳͚̜͌̈̓̅̒̍̈́̍ő̷̢̙̘̦̟ͅư̸͕͚͍̰̈̿͗̐̋͒̇̕",
+    
+    ["me"] = "m̷̢͑̐̂̈́̔͘ͅe̵̩̐́̆͠",
+    
+    ["him"] = "h̴̫͚̻̪͚͈̿͂̀ḯ̵͖͒̿͛̚͝m̴̡͙͉̙͇̘̝̘̲͎͒̓̚",
+    
+    ["yeah"] = "ŷ̸̡̧̛͉̠̻͓̺͉̯̱̔̊͆̈́̈́ȩ̸̛͙͎̮͔͍̼̏̔́̋̽̄̄͘͠a̸̢̮̮͗̑͗̌̄͘͘h̶̡̨̤̬̝̟͈͔̣̻̅",
+    
+    ["go"] = "g̸͈̲͈̻̮̱̯̲͍͊̀̅͌̈́̚ȏ̶͓̯͖͚̀",
+    
+    ["lol"] = "l̷̯͍̘̟̈́̉͗̓͛̎͌̓͘ǫ̵̨̹̳̹͉̗͈̟͓̾̓̿͗͌̐͆l̷̺̭̗̩͛̀̃̇͐̂́̄͒͝",
+    
+    ["did"] = "d̸̡̝̭̺͈̣̦́̑̍̏͘͜į̸̘̬͋̈́ͅd̷̢̢̖̣̦͈̱͌͊̑͆̇̈͜",
+    
+    ["hacks"] = "h̶̤͖̊́́̈́̍̐̐͝a̴̧̩̭̲̜͙͚͌̓̂̽̄̓͗̕ċ̶̨̻͈̼̗͕̲͔̥͑̄͋̚͝k̵̰̯̱͚͔̺̗̒̒̂͛̇͜͠s̵̢͓̺͉̮̥̞̻̪̈́̾̽͐̅̀̈́͜",
+    
+    ["hacking"] = "ḩ̶͓̠͚̘̙̥͓̪̍͌̏̿̊́́̆͠ͅạ̶̛̬͖̖̖̞͗͛̒̔̍͒̌̾̚c̸̖͓̤̬̀͆̐́̀́̑͝k̵̨̤̥̮̪̝̦͋̒́̎̈́̓̈̈́̚ḯ̵̧̤͖̣̗̤̪̪̳̑͋́͒̽́͘ͅn̷̨̺̝̲̈́̔̎̅͐͘͠ģ̵̩͈̱̬̱̥̮͔̓̈",
+    
+    ["hack"] = "h̵̩̞̜̳̘̤͈̮̠͋̀̊̄͠á̴̧͍͓̳̈́c̵̥̔́̐̐̓̋̅̃ǩ̸̢̫͓͉̦̗͋̅̔̇̇͐̇̈́̍",
+    
+    ["what"] = "w̷̢̛̛̦̭͙̠̝̘̣͙̓̓́̌͐͘͘͝ͅh̸̬̝̹̞̖͈͚̄͊̑̄̈̒̈́͆͛͜͠a̴̙̰̞̰̜̕t̷̡̛͇̦̜̗̏͒̏͛̀̃",
+    
+    ["when"] = "ẁ̷̛̛̖̠͍̼̯͍̓̔͑̓͠h̷̨̧̳̥̞̼̝̣͐̆̌̀̈́̕͜e̶̱̿̆͒n̶̪̫̺͍̣̪͇̲͓̫̄͛̑͋̔̍͂͝͝͠",
+    
+    ["where"] = "w̸̨̛̫̬̤̥͇͉̮̻̪͐̓͆̚h̴̞̤̭͔̳́̀̏́ḛ̷͗͌͜ŕ̸̨e̷̢̬̰͉̙̭̫͙͐̎",
+    
     ["nigga"] = "ni{{AIeIXzVZx:gga}}",
+    
     ["nigger"] = "ni{{AIeIXzVZx:gger}}",
+    
     ["piss"] = "pi{{zczxczvz:ss}}",
     ["penis"] = "pe{{AIeIXzVZx:nis}}",
     ["pussy"] = "pu{{AIeIXzVZx:ssy}}",
